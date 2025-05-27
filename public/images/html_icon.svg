@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="47px" viewBox="0 0 56 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Category</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Reference-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-772.000000, -397.000000)" fill-rule="nonzero">
+            <g id="Category" transform="translate(772.000000, 397.000000)">
+                <path d="M12.6312632,36.3549474 L0.739894737,24.4635789 C-0.246631579,23.4770526 -0.246631579,21.8778947 0.739894737,20.8913684 L12.6312632,9 L16.2047368,12.5722105 L6.09947368,22.6774737 L16.2047368,32.7827368 L12.6312632,36.3549474 Z" id="Shape" fill="#78CC18"></path>
+                <path d="M42.5734737,36.3549474 L39,32.7827368 L49.1052632,22.6774737 L39,12.5722105 L42.5734737,9 L54.4648421,20.8913684 C55.4513684,21.8778947 55.4513684,23.4770526 54.4648421,24.4635789 L42.5734737,36.3549474 Z" id="Shape" fill="#78CC18"></path>
+                <rect id="Rectangle-path" fill="#5C8DFF" transform="translate(28.119995, 23.273652) rotate(-75.954029) translate(-28.119995, -23.273652) " x="4.76107964" y="20.7473393" width="46.7178317" height="5.05262476"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
