@@ -430,11 +430,11 @@ export const FooterContent1 = () => {
                 />
               </div>
               <p>
-                919 North Market Street,
+                1207 Delaware Ave,
                 <br />
-                Suite 950
+                Suite 2858
                 <br />
-                Wilmington, DE 19801
+                Wilmington DE 19806
               </p>
             </div>
 
