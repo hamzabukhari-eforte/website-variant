@@ -51,7 +51,7 @@ export default function (req, res) {
                       <p style="color:#0b3558; margin: 0 12px;"> 
                         <strong>Business Development</strong>
                         <p style="font-size: small; color: #000; margin: 2px;"> 
-                            <strong style="color: #0b3558;">a:</strong> eForte | 919 North Market Street, Suite 950 Wilmington, DE 19801.
+                            <strong style="color: #0b3558;">a:</strong> eForte | 1207 Delaware Ave, Suite 2858, Wilmington DE 19806.
                         </p>
                         <p style= "font-size: small; color: #000; margin: 2px;"> 
                             <strong style="color: #0b3558;">e:</strong> <a class="fa" href="mailto:info@eforte.io"  style="color:darkgreen; text-decoration: underline;">info@eforte.io</a>
