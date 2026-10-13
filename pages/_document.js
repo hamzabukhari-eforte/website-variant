@@ -31,14 +31,7 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head>
-          <script
-            defer
-            async
-            src="//ukbrowserspeed.com/_k/t.js"
-            data-public-key="pk_03c5c781cf880c229a3a4564898af5f5"
-          />
-        </Head>
+        <Head />
         <body>
           <Main />
           <NextScript />
