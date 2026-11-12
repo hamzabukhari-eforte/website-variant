@@ -1,6 +1,6 @@
 // type: 1 for logo and promo items
 // type: 2 for web and ecommerce
-// type: 3 for stationary and brouchers
+// type: 3 for stationary and brouchers.
 
 const all = [];
 
