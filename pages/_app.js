@@ -111,8 +111,10 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon.png" />
         <meta
           name="robots"
-          content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+          content="noindex, nofollow, noarchive, nosnippet, noimageindex"
         />
+        <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet" />
+        <meta name="bingbot" content="noindex, nofollow, noarchive, nosnippet" />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0, minimum-scale=1"

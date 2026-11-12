@@ -1,19 +1,17 @@
-import { getServerSideSitemap } from "next-sitemap";
-
-export const getServerSideProps = async (ctx) => {
-  const request = await fetch(`${process.env.eforte_blog_url}/blogs/allSlugs`);
-  const posts = await request.json();
-
-  const newsSitemaps = posts.map((item) => ({
-    loc: `https://eforte.io/blog/${item.slug}`,
-    lastmod: new Date().toISOString(),
-    changefreq: "monthly",
-    priority: "1.0",
-  }));
-
-  const fields = [...newsSitemaps];
-
-  return getServerSideSitemap(ctx, fields);
+const Site = () => {
+  return null;
 };
 
-export default function Site() {}
+export const getServerSideProps = async ({ res }) => {
+  res.statusCode = 404;
+  res.setHeader("Content-Type", "text/plain");
+  res.setHeader("X-Robots-Tag", "noindex, nofollow");
+  res.write("Sitemap disabled");
+  res.end();
+
+  return {
+    props: {},
+  };
+};
+
+export default Site;
